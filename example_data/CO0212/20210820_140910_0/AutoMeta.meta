@@ -1,0 +1,6 @@
+label	CO0212, Orange desorb no. 1
+comments	autogen SN 1153168, sorbent Tenax
+TT_Filepath	20210820_140910_0
+MeasurementType	AutoSample
+Analyzer_SN	3
+BaselinePath	20210820_043041_0

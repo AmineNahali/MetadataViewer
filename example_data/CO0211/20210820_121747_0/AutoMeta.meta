@@ -1,0 +1,6 @@
+label	CO0211, Green desorb no. 1
+comments	autogen SN 1149037, sorbent Tenax
+TT_Filepath	20210820_121747_0
+MeasurementType	AutoSample
+Analyzer_SN	3
+BaselinePath	20210820_043041_0

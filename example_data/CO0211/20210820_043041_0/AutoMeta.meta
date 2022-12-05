@@ -1,0 +1,6 @@
+label	Baseline,  desorb no. 1
+comments	autogen SN 0, sorbent 
+TT_Filepath	20210820_043041_0
+MeasurementType	AutoSample
+Analyzer_SN	3
+BaselinePath	20210820_043041_0
